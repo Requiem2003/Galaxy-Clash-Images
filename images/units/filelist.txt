@@ -1,0 +1,135 @@
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Aayla-Secura.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Admiral Akbar.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\ahsoka-fulcrum.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\ahsoka-white.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\ahsoka-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ahsoka.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Anakin Skywlker.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\anakin-dark.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\anakin-general.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\anakin-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Arc Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Asajj-Ventress.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\B1 Battledroids.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\B3_Ultra_Battle_Droid.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bad Batch Crosshair.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bastila Shan.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\BB-8.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bo-Katan Kryze.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Boba Fett.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\boba-daimyo.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\boba-scarred.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\boba-scarred.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\boba-young.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\C1-10P "Chopper.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\CadBane.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Cal Kestis.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Captain Phasma.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Captain Rex.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Chewbacca.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Commander Faie.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Trooper Medics.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Troopers.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Commander Cody.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Count Dooku.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Maul.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Nihilus.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Plagueis.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Revan.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Sion.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Din Djarin "Mando".webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Droidekas.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Enfys Nest.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ewok Spearmen.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ezra.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Fennec Shand.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\filelist.txt
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Finn FN-2187.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\First Order Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\General Hux.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\general-grievous.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grand Admiral Thrawn.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grand Inquisitor.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Greedo.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\grievous-4arms.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\grievous-kaleesh.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grogu.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Gungan Swordsman.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\han-general.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\han-old.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\han-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\HanSolo.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\HK-47.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\IG-11.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Imperial Army Trooper.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Imperial Super Commando.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jabba.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jango Fett.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jar Jar Binks.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jawas.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jedi Temple Guard.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jedi Youngling.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jyn Erso.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\K-2SO.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Kylo Ren.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\kylo-ben.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\kylo-supreme.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\luke-dark.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\luke-farm.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\luke-jedi.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Luke-Skywalker.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mace-Windu.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\magna Guards.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mandalore the Ultimate.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mandalorian Rifleman.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\mando-beskar.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\mando-young.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mara Jade.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Marchion Ro.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\maul-crimson.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\maul-spider.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\maul-young.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Moff Gideon.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mortar Stormtrooper.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mother Talzin.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Nihil Pirate Marauders.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\obiwan-clone.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\obiwan-old.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\obiwan-young.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Obiwan.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Padme.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\palpatine-clone.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\palpatine-senator.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Palpatine.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Paz Vizsla.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\placeholder.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Plo koon.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\praetorian_guard.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Qui Gon Jinn.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\R2D2.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rancor.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rebel Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rey Skywalker.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Sabine Wren.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Savage Opress.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Saw-Gerrera.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Scout Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Snoke.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\ST-series Super Tactical.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\StarKiller.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Storm Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tarkin.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tera Sinube.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\The Armorer.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\The Daughter.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tie Fighter.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Torban Buck.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\vader-damaged.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\vader-fallen.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Vader.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Wicket.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Wookie Fighters.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\yoda-exile.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\yoda-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Yoda.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Zeb Orrelios.jpg
