@@ -1,0 +1,586 @@
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.gitattributes
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\filelist.txt
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\COMMIT_EDITMSG
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\config
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\description
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\FETCH_HEAD
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\HEAD
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\index
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\info
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\applypatch-msg.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\commit-msg.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\fsmonitor-watchman.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\post-update.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-applypatch.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-commit.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-merge-commit.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-push.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-rebase.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\pre-receive.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\prepare-commit-msg.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\push-to-checkout.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\sendemail-validate.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\hooks\update.sample
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\info\exclude
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\HEAD
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\heads
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\remotes
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\heads\main
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\remotes\origin
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\remotes\origin\HEAD
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\logs\refs\remotes\origin\main
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\01
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\03
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\06
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\09
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\11
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\12
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\15
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\16
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\17
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\20
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\22
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\24
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\26
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\28
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\29
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\30
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\32
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\33
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\35
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\37
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\39
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\40
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\41
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\42
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\44
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\45
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\46
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\47
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\48
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\4c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\4f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\51
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\52
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\53
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\55
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\57
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\58
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\59
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\60
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\61
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\62
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\63
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\64
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\65
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\66
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\67
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\69
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\70
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\72
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\74
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\75
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\76
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\80
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\81
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\82
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\84
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\86
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\87
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\89
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\90
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\91
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\93
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\95
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\97
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\98
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ac
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\af
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b0
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b2
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bf
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c0
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c2
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c5
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\cb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\cd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d5
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\da
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\db
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\dd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\df
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ea
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\eb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ed
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\f7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fa
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fe
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\info
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\pack
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\01\9624bc6745c63f2fa4e51217041ab6cbfc4561
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\03\1de7da893373c7de2e6511cc3d881a316aef3a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\03\d6154cf021a5386df16351af3539e17b0d1447
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\06\2f15f015da840bb57c0221809319b09c3d774a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\09\444c3fe645f6868c1c946ff4ec693992b26040
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\09\a26e7c8378b4e376a0c41993bd12486484702b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0c\9a26cbaabb235677d8eb98290bc929ddc1745f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0d\b9e7f95327471a507928a2e7964ff62bf3ffbc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\0e\e1170324c0f74366872fd2eb36775e50ddb0fa
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\11\4ad68c21dc8cc9470fefc30b6f9780c7f84cb8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\12\30ed8ffcdd9b138f6d71c79227f729ee82eeae
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\15\2da2db28c97e21948cabee2f094b1a2d097f01
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\16\6ed452f262632276bdc0061be24829ffea6156
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\17\6acb53fbb91c853bb5d196504cd223220064cf
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\17\c60b3f84ceebed8b93830f8bdedf557d6f0708
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1a\11bc3ba325f579fc7feb177d312d176af146be
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1b\88c7a39d60eb49f41548482c6dce1bb3ee213d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1d\cb59e80e0950b0b0723247a91dd663699f7fc5
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1d\ee46ebdfb5e49209e9de97f8c8ad364d201077
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\1e\67ad10306f6bb9b4624fa49dbdb30773bf6436
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\20\dec0d8ae1844c1ba6d9b8551589522d17c7e73
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\22\83cb3f475ad690293d8be1970e9c9f8168972d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\24\d0ab93f46df6fe65809b660606b390849e8a73
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\26\cf3852c8991a241bd53dfb9d06aaf43f1f5bbb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\28\c046b30a3110ef86677175ce650e99406709eb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\29\88f4bd1f10f02c5b28c075a4da3e9d24f90856
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2b\600c26c772f3ed75c8906f2794b56008aef377
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2d\0e6ff75f51888250ebbf0c935375a147a3389f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\2e\d8f2a366d752a813a93fdb92749d9101bce1b4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\30\761c78c98b3005a6d50a5ebbf87e183d40fd24
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\32\39c59d1fd77498cd86269e6520c8993ef9226f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\33\6a0b2bff9a920bdacb322b54920317f8b7e9bb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\33\ac66957555d0d8f01539c85100585e8661c64f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\35\4e92628af15a648c45a322114d042315872a7f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\35\a2f22477c7ad64d36ef6e95c15c8041101e16f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\37\29740019958e991c1d7d719b820bc52fc12e21
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\39\e24c9c629712aeedeea5080db9f580671c279b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\39\ffde432717118eed871b917a6f77417cd601cb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3c\a02180ad6069f26a47b683a626adad5890529d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3c\ea06c1b153df5a59e5f4590b1bc1d6e8633978
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3e\0bf336c8bec37e68168038683f7a02f8264768
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3e\5cc9d7a3d71fda07004232d7d478b9a862c43c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3f\93c14c70445f60877f76b220d14332af06e5ed
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\3f\d6c8adf2bd6f94dfa29b7a65dafb82d3f3bb10
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\40\161d6dc49bb66f2d6a73b197acd697dc860e30
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\41\c4860258fd59732b5fd7c74f76bb39aab6be89
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\42\75e0ddb953c3d3f4897de34ca908f1d19e499f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\44\7f3fb25ff4173b5e8f3ed03186d7267794b984
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\45\bbb05e94c681dcf7a47eb9dc717689a5afcdb1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\46\67163467bd6ca6bf5c5689e9f785afd7460072
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\46\8eee529202ad58b9afb09f4b981afdbbea4956
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\47\ae910dc9a950a2e4261b9a1b712385e03d4e60
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\48\19475f9184d04c757ddee1574a72ce09dfcd91
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\4c\19fbde3aad9e277aae9990d9bdb0030b590815
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\4f\32709f09cf2538560e1c97c79f87ae8580aca9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\51\0209ce2980acb2c446754db8beaf3982be56d6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\52\32d8ff58407cedb97dcc9341793c118f88b49e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\52\85ec8150c79df3f28f28a59de49c05ce7d4798
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\52\a66ada11eacc74345c9228d520545e44d60c86
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\53\22ca71e85b1f226d73badbb5fdd89c347527b9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\55\1cbbf4d989badf23ca06f768e8d97f030d3c9f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\57\93ad05de74a355d749f9e017189897e34de7dc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\58\48482fe43063ab7dc9a4651266bfc276e1e991
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\59\ec276820961072128caf7aeb2da428a2966825
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5a\18193feedce6c37ecbbd1d47d58ed2bac9ecef
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5c\e0e04a6d7e3779ca8ba2a568e0b6f4968fda92
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5e\a3a64e58fbcced63672e12b18c6a7747da57b4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\5f\a00adec4a88f31095d588c10ec044446addc00
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\60\c6424dd36973caab3cfc83cb3511135357c45c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\61\e90b60d2dbec7b88b33803db579e545060948b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\61\e912d1d656a8a04df3ccc193ee283661ee655f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\61\f411b12ae8df29cde1d90e5f8f77b98e9a8beb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\62\da8da5f529cda8b13d76f8a41f74c9a0fdb8e6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\63\d0b488a811392b6af7894b59026cf25bc245f3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\64\5bbcc3e41bddfc4bac8e58d583583757d3472f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\65\f61ecb9d779641514b9df55e0e209343e56fd4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\66\8d07ee696283d2d9cba6b0110dc50c124fa6b3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\67\8804f5f7228bfcb449958b1d10b8b9dac9312f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\69\36415e1ae6af1019af0095197e897cc46d7957
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6a\446ffb0e0875b8f3575d44a7e7d7a1b8a88a92
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6d\68c7b7729fe3cb0263e9de59b0fad07ccb161d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6d\7cf788c86ffa7e3a9262dbd0d6832d8d244aaa
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6f\44067465719a63e00b1094952728c89b4dee9a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\6f\9509c88bed7080d496fc5e1d87a9315e30549d
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\70\2073455c0e111242f900e1bff04a96f7763fc8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\70\f14f1aa8de20ea08265c47ed096e4d3a3438b8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\72\f54bc09c5f48c400416929cba165358c58a6ee
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\74\802782708b82b3524dc87529fb0af3d5b16742
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\75\98928bb67960d365571723719fb805d580fd71
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\75\a995b330ddbdf46fb5b764982f5f624d532b4f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\76\1fd2c7a00dce74edccfd496a33bbaa9be8d4f5
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b\108caeee797f4c2234a57d3b4ae2cde6107ecd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b\35519f7c81b37a41febfeb24ccda64cc7e0a42
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b\4571929355a044b5b0514d4abb4f62f200e66a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b\866bc99adf85a7b8c6dcbf718df9ef663a7131
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7b\ff7ed1a152301b6f495ca80c9ac285d7117976
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7c\a300f6b7482ae0419ac7a865dfb6d38924b160
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7c\c9aeaed1ff3e0df4f10bf9cf5e422f506a37b8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7d\8d87e1bf6e55fc3842891e9a3958f0217f61f3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7d\ea22cd6c84315548a4faa2d4c3aa8276edeb14
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7e\4377128f7395991e90bccb96938eb8afe7fd46
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\7e\4bd091819402e706861591458f65f1ca04823e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\80\5fceef7d722b495cf1c7caf8fff4136aca476e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\81\9c4ddd5cf547dac2f0d9c26a733104cb1a8b58
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\82\a33ab3d06ff499e53bff9908bf2a7494591248
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\84\fba644ba5dacc74e279d4a09ef7f6efde82321
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\86\7284b59db98878fbf5e0058119a7987212066b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\87\754b2d11dbf021398362a2fbd934154b1d5f67
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\89\64774dacd416f16cdd870c1fef48dc4b85e155
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8c\f28b9a05a75c2c32f5ddd3b8dd3c63af983e29
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8e\1c9f9e84e52cbe8c23dfd0e56d899e48d54517
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\8f\bd6faf86a57af834c202015981d3332f5879d4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\90\93d0702a8fca771387d0723a5a2b55169326ec
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\91\34d74df378c6d79ba1bc2f39587620a59ce975
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\91\810c8cf80720428116eaceb0eb562441178f0e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\93\eb15ca01cf182a6d32334fc39944fed3272b58
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\95\b655b9cc134fa3ac1a888c5c0c4266792fbb6e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\97\1f86aa1f2e5f198d093ddfe99329ef5e4f639e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\98\9ec6007ff3979414444a3c0f8de65c2712a2cc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\98\e50b2b37971032d0af9662978b2c84392fb174
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9a\62a22c7642fe448a94ed7346b1d9adf80f045c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9b\5ff9ca411cca4fb857d3603358df3773d920b1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9b\961878eb0a26c58e469c384391560c956c80cc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9b\bcec6626f352abe462a9938fbc421257c98c6f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9c\ddad2f356a0dca749797a0b910a79341802ae7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9f\62084e66327bbf7daeebd3ad4649d638cbd5f2
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9f\b4a9f39935f3bf62b7f09dedd11bebe710b583
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\9f\d159d539320b404a800d35fa98d62a9fd1cfbd
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a1\399e080d9d4ca997576ec7c286c85450d0d690
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a1\7cc8a7a27f818bbc644a969b8e0b51eb986ed9
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a3\168efe12e0b3ef35f038769e20b1d2b0ab3eb3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a3\18d3f0fbaa9f87c4228c1baa85da4c58069006
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a6\af7d3fa59e41654bb25a245376478d9699d671
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a7\4d045bb5c1810f11b62bb55d4ef5f9cf610843
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a9\be8c0f13c32a73b0d1ad9b200daf8b551cb6d3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\a9\e65791adc33e0cd8c8d9d336cf1f8916e06b3a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ac\cbe5de22330ab9934368be4ab03cf72f190178
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\af\7c1fefb4bfc32833fea3a02ea520558ffeacc5
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\af\c4ced3fec1c13043ac0134f445aa4dac962e8c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b0\148e8440e29e1206cde436b5796649a318a07e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b2\a686d6cbf9a056a4643cd5de6a666ba73ef8a1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b2\d40bd2b476c9271ba2ee5e6352a39fd029dbea
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b6\4db55d7325eedaa81f6f6f77269f24adec3727
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b9\7d6f472f5139192b39f3d499f06e82e3e57c69
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b9\af687db49fef7a3ab901c2074c561b1f6c3ab4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\b9\be1e0686275c66911c5021d55c155f2e499dc0
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bb\43a707bc08fc693527bebca1165cc63a41bc2c
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bb\87dbe2c770f73be938624da14f72e74e0cb77f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bb\e2a5a84423ce322c635a50f460732e71c24320
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bd\bdef163341c7fffe4f453300fdedc26590876a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\bf\5fd91346bcc71887becbcfe433787b82821268
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c0\408af8399a7f5c5feef934277d4f08e01ebf68
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c0\7bf82139222e8fcc193483952a4f63e279faa1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c2\16f34b35903482d6bb7f29d3edc55165dded32
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c3\50814fa4373d49baabd2c6750c44ee55420c69
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c3\8476f990003256d7850b57dd79c9c3ac4bc0e6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c3\f87cc542340c8509c5fb51b815aa9649437781
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c4\1421dc088f3803c440a1b25fff79071a8b257f
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c4\9f3672a49024c80bbe64ee60557947d5d4ff9b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c4\ce223cdcc5366361be3f951285b5ecf6223503
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c4\dcc9cbe9262f8620f36c3b26a41d488daabad3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c5\035fc6a71b5aadb2d1b3af730da6b192e17858
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c5\a55328e9654a96dbbf45db31871cb0ff51b8d3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c5\e1b3a5ed329c2b8bd8507c288e3d0c057c9897
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c5\ee0623b298d86e38b1e413a8f7a48b60d18bcb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c6\b2ace1c694aa133b8190625a3f49451699df2a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c7\faa1f55c432f7200b8f75a8cf071a1e1345862
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c8\75e0e3a70192832ac00951b9475c2b13c35842
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c8\e817fb581df7a1abfc0bf39235e323b7b54329
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c9\1ddee5b198c427ef96dbdcc7afc4376aa9427a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\c9\97bfa6aa23e8cb527c8c8d0164229c4c1a47fc
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\cb\bf35e0b9f922cd74eda21d4f7408a8085aafe3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\cd\82840dce540b48179fd475b025dc812e4a1a17
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\cd\b4bc3172dbd91db3c108fdd30d8e1ab8c5e1ad
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d3\da2788ec009fabb3dd90ecfc684e23afcfc1b4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d4\0c6a6d98c535ef9852c1b29af9d3b07b4a2932
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d5\ce6de4ce559bbba8cfb373c001562e95e7f81a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\d7\81baa1b7123df2c96cbdb70bdae4aa9daf1868
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\da\e551164df6f1575ba86476c5a7a8dc9fdc46fb
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\db\715487fdbd53d4acb5e84d5248e3b02eeb17b6
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\dd\108acfcda2b867fd15afdb30a32ddb6a7a51f7
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\dd\718f060d95508b9f57c913d5f29c35395046d8
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\df\6a9fa9d435ef6e441f9d26aadc605ebb73b701
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e7\f5d2131c8a6be08047c2d18dca38edd20c0ce3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e8\d8f5ac327d1cd545b888f47fbb583dc01453e1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e9\a151aa60c65f2171df9ec618e69e9d7d9fada4
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\e9\cfdd961c55c2ad4bca38fd886e926c2998e841
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ea\32f49580b268715bd852a83361af6aa7bc3f1a
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\eb\4fadfe5d17b8ad104c7a4b229392a6590f25d1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\ed\c812efe4a366fb606b3851e2d6c5edc5211e26
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\f7\24d64694289456816807c7a38fdc005a09360b
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fa\f5ff280720ec800821c377a98dac1f725b1e45
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fc\a2f1d0353f96e584b878c6bf03b63fda17510e
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fd\3dd1d95c80f69f9c53bddb1308705bf8285468
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fe\38665e0744ba817b941ee8d61102f7a672bf54
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\objects\fe\fc720b5c7fb546a94a8af839d63f53b93778c1
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\heads
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\remotes
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\tags
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\heads\main
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\remotes\origin
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\remotes\origin\HEAD
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\.git\refs\remotes\origin\main
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\coruscant.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\dagobah.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\deathstar.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\endor.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\exegol.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\filelist.txt
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\geonosis.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\hoth.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\jakku.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\kamino.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\mustafar.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\naboo.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\battlefields\tatooine.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Aayla-Secura.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Admiral Akbar.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ahsoka.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Anakin Skywlker.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Arc Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Asajj-Ventress.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\B1 Battledroids.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\B3_Ultra_Battle_Droid.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\B3_ultra_battle_droid_TotG.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bad Batch Crosshair.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bastila Shan.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\BB-8.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Bo-Katan Kryze.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Boba Fett.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\C3PO.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\CadBane.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Cal Kestis.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Captain Phasma.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Captain Rex.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Chewbacca.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Chopper.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Commander Faie.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Trooper Medics.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Clone Troopers.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Commander Cody.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Count Dooku.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\darth malak.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Maul.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Nihilus.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Plagueis.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Revan.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Darth Sion.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Din Djarin "Mando".webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Droidekas.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Enfys Nest.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ewok Spearmen.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Ezra.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Fennec Shand.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\filelist.txt
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Finn FN-2187.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\First Order Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\General Hux.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\general-grievous.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grand Admiral Thrawn.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grand Inquisitor.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Greedo.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Grogu.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Gungan Swordsman.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\HanSolo.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\HK-47.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\IG-11.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Imperial Army Trooper.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jabba.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jango Fett.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jar Jar Binks.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jawas.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\jedi padawan.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jedi Temple Guard.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jedi Youngling.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Jyn Erso.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\K-2SO.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Kylo Ren.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Luke-Skywalker.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mace-Windu.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\magna Guards.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mandalore the Ultimate.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mandalorian Rifleman.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mara Jade.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Marchion Ro.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Moff Gideon.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mortar Stormtrooper.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Mother Talzin.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Nihil Pirate Marauders.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Obiwan.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\OG9.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Padme.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Palpatine.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Paz Vizsla.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\placeholder.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Plo koon.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\praetorian_guard.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Qui Gon Jinn.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\R2D2.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rancor.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rebel Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Rey Skywalker.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Sabine Wren.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Savage Opress.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Saw-Gerrera.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Scout Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\sith padawan.avif
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Snoke.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\ST-series Super Tactical.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\StarKiller.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Storm Troopers.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Super Commando.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tarkin.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tera Sinube.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\The Armorer.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\The Daughter.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Tie Fighter.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Torban Buck.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Vader.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Wicket.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Wookie Fighters.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Yoda.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\units\Zeb Orrelios.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\ahsoka-fulcrum.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\ahsoka-white.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\ahsoka-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\all the jedi rey.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\anakin-dark.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\anakin-general.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\anakin-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Asajj Ventress - Bounty Hunter.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Bo-Katan - Mand'alor.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\boba-daimyo.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\boba-scarred.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\boba-scarred.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\boba-young.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\captain-rex-arc.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Chiss Ascendancy thrawn.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Dark Cal kestis.avif
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\dark rey.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Darth Tyranus dooku.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\darth_jar_jar.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\ezraexile.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\EzraStreetkid.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\grievous-4arms.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\grievous-kaleesh.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\grogu-beskar-armor.avif
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\han-general.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\han-old.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\han-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Jedi Knight cal kestis.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\jedi master dooku.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\jedi padawan ezra.avif
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\kylo-ben.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\kylo-supreme.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\luke-dark.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\luke-farm.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\luke-jedi.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Mace Windu - High Council.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\mando-beskar.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\mando-young.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\maul-crimson.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\maul-spider.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\maul-young.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\nightsisterventress.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\obiwan-clone.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\obiwan-old.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\obiwan-young.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Padawan grogu.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\PadawanCalKestis.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\palpatine-clone.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\palpatine-senator.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Qui-Gon Jinn - Knight.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\qui-gon-jinn-ghost.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Redeemed Jedi revan.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Redeemed starkiller.png
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\revan Peak Power.jpg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\rex rebel veteran.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Rey_jedi.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\scavenger_rey.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\Sith Stalker starkiller.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\thrawn exiled.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\True Mandalore jango.avif
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\vader-damaged.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\vader-fallen.jpeg
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\windu High Council.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\windu survivor.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\yoda-exile.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\images\variants\yoda-young.webp
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\coruscant.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\dagobah.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\deathstar.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\endor.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\exegol.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\filelist.txt
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\geonosis.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\hoth.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\jakku.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\kamino.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\mustafar.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\naboo.mp3
+C:\Users\journ\Documents\GitHub\Galaxy-Clash-Images\music\tatooine.mp3

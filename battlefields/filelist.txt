@@ -1,0 +1,13 @@
+coruscant.jpg
+dagobah.jpg
+deathstar.webp
+endor.webp
+exegol.webp
+filelist.txt
+geonosis.jpeg
+hoth.webp
+jakku.jpeg
+kamino.jpg
+mustafar.jpeg
+naboo.webp
+tatooine.webp
